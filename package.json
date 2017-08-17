@@ -1,0 +1,14 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Scheduler for Sabanci University",
+  "main": "index.js",
+  "repository": "https://github.com/anonrig/scheduler-v2",
+  "author": "Yagiz Nizipli",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1"
+  }
+}
